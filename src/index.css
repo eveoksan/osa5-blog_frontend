@@ -1,0 +1,47 @@
+body {
+  font-family: Georgia, serif;
+  color: #343434;
+}
+
+h1 {
+  color: rgb(3, 104, 95);
+  font-style: italic;
+}
+
+h3 {
+  color: rgb(13, 57, 107);
+}
+
+.blog {
+  padding: 5px;
+    list-style-type: none;
+    border-style: solid;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    background-color: rgb(240, 240, 240);
+    line-height: 1.5;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.remove {
+  color: red;
+}
